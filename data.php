@@ -1,0 +1,4 @@
+<?php
+
+$ua = "Mozilla/5.0 (Linux; Android 11; Infinix X657B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.46 Mobile Safari/537.36";
+$cookie = "__cf_bm=fWaKpzvDAKlvvbLGAvLHrF7sSela9PF9suLvMfECeH0-1642052360-0-AW8EqKuuadoxMM9K5h9sjgnmz/BZuY2WgC/bNmj8Ziwx2t5i3ibTvbbQIdBxuLmec6g6m88/kjYr3cSzpI//8sKAZmAdIBJxfTq1a2T3lh5x/ty/Y8VsQAHBruRUpU4RXg==; _ezu=208469; _ezck=2NJFBoJhJLVPTL0FBZOICyX1DaikPWse0yDkHvEwOanGiAHxeehVxTzYWdWlAlt3WCkvHtkoh5xAj5WQVAXee5prvNx9Cz69JfTLFSk7QiLSLZzvx1H0g7HuMVYxs0T3; ppu_main_65aa283021630dfd9030555c4c61a78c=1; _ga=GA1.1.214122198.1642052453; dom3ic8zudi28v8lr6fgphwffqoz0j6c=77712f28-1e56-4155-bb68-95420dbc6e28:3:1; _ga_R1ZFRKVZ94=GS1.1.1642052453.1.1.1642052586.0; _PN_SBSCRBR_FALLBACK_DENIED=1642052592592";
